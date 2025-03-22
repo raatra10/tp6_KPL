@@ -1,0 +1,15 @@
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/bin/Debug/net7.0/tpmodul6_103022300123
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/bin/Debug/net7.0/tpmodul6_103022300123.deps.json
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/bin/Debug/net7.0/tpmodul6_103022300123.runtimeconfig.json
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/bin/Debug/net7.0/tpmodul6_103022300123.dll
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/bin/Debug/net7.0/tpmodul6_103022300123.pdb
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/tpmodul6_103022300123.csproj.AssemblyReference.cache
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/tpmodul6_103022300123.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/tpmodul6_103022300123.AssemblyInfoInputs.cache
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/tpmodul6_103022300123.AssemblyInfo.cs
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/tpmodul6_103022300123.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/tpmodul6_103022300123.dll
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/refint/tpmodul6_103022300123.dll
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/tpmodul6_103022300123.pdb
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/tpmodul6_103022300123.genruntimeconfig.cache
+/Users/mac/Documents/KPL/tp6/tpmodul6_103022300123/tpmodul6_103022300123/obj/Debug/net7.0/ref/tpmodul6_103022300123.dll
